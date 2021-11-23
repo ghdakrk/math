@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/480p15/partial_movie_files/Test/3163782288_1964228211_1475745073.mp4'

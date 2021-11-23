@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/ValueTrackers/1342159004_3915895130_1431567605.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/ValueTrackers/1353618911_3493041802_3473872332.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/ValueTrackers/1353618911_2624684391_1045477310.mp4'

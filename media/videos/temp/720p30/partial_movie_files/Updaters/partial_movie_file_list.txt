@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/Updaters/1342159004_2729106941_1192221819.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/Updaters/1353618911_4231214677_2992931628.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/Updaters/1353618911_6294186_1848849956.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/Updaters/1353618911_2825492098_2750148895.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/Updaters/1353618911_1154319859_30228848.mp4'
+file 'file:C:/Users/ghdak/Desktop/fastcampus/[02] 수학 코딩/media/videos/temp/720p30/partial_movie_files/Updaters/1353618911_3493041802_3769186682.mp4'
